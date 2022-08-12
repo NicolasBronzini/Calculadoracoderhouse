@@ -1,13 +1,12 @@
 *{
     font-family: "fraunces", serif ;
-    color: white;
 }
 body.dark{
     background-image: linear-gradient(25deg, #6e6073 0, #5b4a6a 16.67%, #423462 33.33%, #1f1f59 50%, #000e51 66.67%, #00004a 83.33%, #000045 100%);
     color: white;
 }
 body{
-   
+   color: black;
     background: rgb(34,193,195);
 background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
    padding:35px ;
